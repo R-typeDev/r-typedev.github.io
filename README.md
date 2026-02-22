@@ -1,6 +1,9 @@
 # R-typeDev
 
-Web Developer
+**Web Developer**
+
+Independent Freelance Web Developer  
+Handcrafted & performance-focused websites
 
 ---
 
