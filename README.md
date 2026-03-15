@@ -5,7 +5,9 @@
 Independent Freelance Web Developer  
 Handcrafted & performance-focused websites  
 HTML • CSS • JavaScript • Performance • Accessibility  
-Constantly exploring new ideas in modern web development.
+
+**Other Skills & Roles**  
+Python • Java • QA Engineer
 
 ---
 
